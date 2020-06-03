@@ -1,0 +1,4 @@
+Use the "ping" functionality to ask us to crawl your sitemap. Send an HTTP GET request like this:
+  http://www.google.com/ping?sitemap=<complete_url_of_sitemap>
+for example:
+  http://www.google.com/ping?sitemap=https://example.com/sitemap.xml
